@@ -7,6 +7,8 @@
 // button - D14
 // light sensor - D33
 
+#include "Arduino.h"
+
 /****************************************************/
 void setup(void) {
 
